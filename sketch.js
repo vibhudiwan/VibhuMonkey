@@ -22,7 +22,7 @@ function preload(){
 
 
 function setup() {
-  createCanvas(windowwidth,windowheight);
+  createCanvas(windowWidth,windowHeight);
   fruitGroup=createGroup();
   obstaclesGroup=createGroup();
   appleGroup=createGroup();
